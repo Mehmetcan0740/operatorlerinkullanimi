@@ -56,7 +56,7 @@ namespace operatorler
             sonuc = a!=b;
             Console.WriteLine(sonuc);
 
-            Console.WriteLine("İlişkisel Operatörler");
+            Console.WriteLine("Aritmetik Operatörler");
             // Aritmetik Operatörler
             // /, *, +, -
 
